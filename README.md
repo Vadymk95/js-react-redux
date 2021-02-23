@@ -1,2 +1,2 @@
 # js-react-redux
-Еhis is a training course
+This is a training course
